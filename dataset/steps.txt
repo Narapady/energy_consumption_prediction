@@ -1,0 +1,6 @@
+1. Read the data
+2. Know the data structure / data cleaning
+    - null values
+    - numerical distribution
+3. Identify values through correlation
+4. Dealing with outliers
