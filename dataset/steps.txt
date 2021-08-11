@@ -13,4 +13,6 @@
         - More energy consumed on weekends than weekday 
         - When temperature and humidity is lower, energy load is lower
         - When temperature and humidity is higher, energy load is higher
-6. Process and examine closely our new featuresr
+6. Process and examine closely our new features  
+7. Identify linear relationship
+8. Train the model
