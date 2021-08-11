@@ -1,6 +1,16 @@
+=====Project Steps=====
+
 1. Read the data
 2. Know the data structure / data cleaning
     - null values
     - numerical distribution
 3. Identify values through correlation
 4. Dealing with outliers
+5. Add features and treat them:
+    - Assumption:
+        - Appliances energy load is by hour, weekday, week, monthly
+        - More energy consumed during day time then night time
+        - More energy consumed on weekends than weekday 
+        - When temperature and humidity is lower, energy load is lower
+        - When temperature and humidity is higher, energy load is higher
+6. Process and examine closely our new featuresr
